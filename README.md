@@ -2,6 +2,10 @@
 
 This repository contains a Python script (`automate.py`) designed to automate the setup and configuration of devices using uPyCraft and specific hardware interaction for updating device settings like VID and PID. The script also handles dependency management by downloading and executing an installer script.
 
+## Purchasing KMBox Pro Hardware
+- Kmbox(s) can be used for variety of uses, it's main purpose is to direct mouse inputs for aimbot and triggerbot to be used
+- A good and cheap place to purchase such hardware is https://blaze-dma.com
+
 ## Features
 
 - Automatically downloads and installs uPyCraft.
