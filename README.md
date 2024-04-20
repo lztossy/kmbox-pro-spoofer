@@ -22,5 +22,5 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/lztossy/kmbox-pro-spoofer.git
+cd kmbox-pro-spoofer
